@@ -58,7 +58,6 @@ export const Banner = () => {
                   <span className="tagline">Welcome to my Portfolio</span>
                   <h1>{`Hi! I'm Jakub Štěpánek`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Informatics and Logistics student", "Motorcyclist" ]'><span className="wrap">{text}</span></span></h1>
                   <p>Hardworking College Student seeking employment. Experienced and dedicated Production Worker with over three years of industry experience, helping production in companies to carry on as smoothly as possible. Adept at operating machinery, finalizing and packaging finished products, and maintaining inventories.</p>
-                  {/* <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button> */}
                 </div>}
             </TrackVisibility>
           </Col>

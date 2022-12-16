@@ -2,7 +2,6 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/System_engineer_icon.png";
 import projImg2 from "../assets/img/Vsehost_logo.jpg";
-import projImg3 from "../assets/img/project-img3.png";
 import projImg4 from "../assets/img/maturita_work.png";
 import projImg5 from "../assets/img/sps-cl_logo.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -25,7 +24,9 @@ export const Projects = () => {
   ];
   const educationItems = [
     {
-      title: "sps-cl", description: "", imgUrl: projImg5
+      title: "AUGUST 2017 - MAY 2021", 
+      description: "", 
+      imgUrl: projImg5
     }
   ];
   const educationProjectsItems = [
