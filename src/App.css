@@ -616,3 +616,13 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.5px;
   margin-top: 20px;
 }
+/************ Body Css ************/
+.main h1{
+  text-align: center;
+}
+.main li{
+  margin: 30px;
+  font-size: larger;
+  text-align: center;
+  list-style: none;
+}

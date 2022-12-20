@@ -4,6 +4,7 @@ import logo from "../assets/img/js_logo-removebg-preview.png";
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import navIcon2 from "../assets/img/nav-icon2.svg";
 import navIcon3 from "../assets/img/nav-icon3.svg";
+import navIcon4 from "../assets/img/nav-icon4.svg";
 
 export const Footer = () => {
   return (
@@ -19,6 +20,7 @@ export const Footer = () => {
               <a href="https://cz.linkedin.com/in/jakub-štěpánek-0b7813254/en?trk=people-guest_people_search-card" target="_blank"><img src={navIcon1} alt="linkedInIcon" /></a>
               <a href="https://www.facebook.com/jakub.stepanek.144" target="_blank"><img src={navIcon2} alt="facebookIcon" /></a>
               <a href="https://www.instagram.com/stepijakub/" target="_blank"><img src={navIcon3} alt="instagramIcon" /></a>
+              <a href="https://github.com/JakubStepanek" target="_blank"><img src={navIcon4} alt="githubIcon" /></a>
             </div>
             <p>Copyright 2022. All Rights Reserved</p>
           </Col>
